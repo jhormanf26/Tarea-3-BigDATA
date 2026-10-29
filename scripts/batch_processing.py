@@ -2,7 +2,7 @@
 batch_processing.py
 --------------------
 Tarea 3 - Big Data (UNAD, 202016911)
-Autor: Luis Emir Guerrero Durán
+Autor: Jhorman Fuentes
 
 Procesamiento en batch del dataset CICIDS2017 usando Apache Spark (PySpark).
 

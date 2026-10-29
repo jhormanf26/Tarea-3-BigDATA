@@ -1,7 +1,7 @@
 # Detección de tráfico de red malicioso — Big Data (Tarea 3)
 
 **Curso:** Big Data — UNAD (202016911)
-**Autor:** Luis Emir Guerrero Durán
+**Autor:** Jhorman Fuentes
 **Dataset:** [CICIDS2017](https://www.unb.ca/cic/datasets/ids-2017.html) — University of New Brunswick (UNB–CIC)
 
 ## Descripción del problema
@@ -91,4 +91,4 @@ en tiempo real a medida que el productor publica nuevos eventos.
 
 ## Autor
 
-Luis Emir Guerrero Durán — Grupo 202016911_46
+Jhorman Fuentes — Grupo 202016911_46

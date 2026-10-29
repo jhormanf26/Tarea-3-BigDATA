@@ -2,7 +2,7 @@
 kafka_producer.py
 ------------------
 Tarea 3 - Big Data (UNAD, 202016911)
-Autor: Luis Emir Guerrero Durán
+Autor: Jhorman Fuentes
 
 Productor de Kafka que simula la llegada en tiempo real de eventos de
 tráfico de red, tomando muestras del dataset CICIDS2017 y publicándolas

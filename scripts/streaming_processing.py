@@ -2,7 +2,7 @@
 streaming_processing.py
 ------------------------
 Tarea 3 - Big Data (UNAD, 202016911)
-Autor: Luis Emir Guerrero Durán
+Autor: Jhorman Fuentes
 
 Procesamiento en tiempo real con Spark Structured Streaming: consume los
 eventos de tráfico de red publicados por kafka_producer.py en el topic
